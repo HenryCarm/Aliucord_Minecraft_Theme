@@ -1,10 +1,13 @@
 {
-  "manifest_version": 1,
-  "name": "Minecraft Sunset",
-  "author": "Henry",
-  "version": "1.0",
-  "background": {
-    "url": "https://raw.githubusercontent.com/HenryCarm/Aliucord_Minecraft_Theme/main/FLowrrs.jpeg",
-    "alpha": 160
-  }
+    "manifest": {
+        "version": "1.0.0",
+        "author": "HenryCarm",
+        "name": "Minecraft Sunset",
+        "updater": "https://raw.githubusercontent.com/HenryCarm/Aliucord_Minecraft_Theme/refs/heads/main/theme.json"
+    },
+    "background": {
+        "url": "https://raw.githubusercontent.com/HenryCarm/Aliucord_Minecraft_Theme/main/FLowrrs.jpeg",
+        "overlay_alpha": 120,
+        "blur_radius": 0
+    }
 }
