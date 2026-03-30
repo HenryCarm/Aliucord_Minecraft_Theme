@@ -8,11 +8,11 @@
     },
     "background": {
         "overlay_alpha": 145,
-        "url": "https://github.com/HenryCarm/Aliucord_Minecraft_Theme/blob/main/MinecraftCalmCherry.gif",
+        "url": "https://github.com/HenryCarm/Aliucord_Minecraft_Theme/blob/main/PinterestGumball.png",
         "blur_radius": 2
     },
     "fonts": {
-        "*": "https://github.com/HenryCarm/Aliucord_Minecraft_Theme/blob/main/MADE%20Evolve%20Sans%20Medium%20EVO%20(PERSONAL%20USE).otf"
+        "*": "https://github.com/HenryCarm/Aliucord_Minecraft_Theme/blob/main/MadeEvolveSansMedium"
     },
     "simple_colors": {
         "active_channel": -1977123123,
