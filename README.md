@@ -1,2 +1,3 @@
-# Aliucord_Minecraft_Theme
-Basically A Minecraft theme I made for Aliucord cuz no one else would T-T
+# Aliucord Minecraft Theme
+Just a quick and cozy Minecraft theme plugin I made for myself (for a Discord Modded App Called Aliucord) cuz no one else would do it I guess... 
+T-T
