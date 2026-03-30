@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "name": "Minecraft Sunset",
+  "author": "Henry",
+  "version": "1.0",
+  "background": {
+    "url": "https://raw.githubusercontent.com/HenryCarm/Aliucord_Minecraft_Theme/main/FLowrrs.jpeg",
+    "alpha": 160
+  }
+}
